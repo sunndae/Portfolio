@@ -1,4 +1,4 @@
-# Tomás Solar's Portfolio Repositories
+# Tomás Solar's Portfolio
 
 This repository showcases a curated list of my personal and academic projects, highlighting the tools and technologies I’ve mastered. From web development to API design, my projects are aimed at solving real-world problems with modern programming languages and frameworks. Whether you’re a student, developer, or employer, these repositories reflect my journey and growth as a software engineer.
 
